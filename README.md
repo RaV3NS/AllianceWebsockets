@@ -1,6 +1,13 @@
 # AllianceWebsockets
 
-## Build Setup
+### Описание задачи
+
+Создать SPA приложение.
+Вывести криптовалюты в отдельный блок (минимум 15), получить данные с API о криптовалютах и вывести их нынешний курс.
+При нажатии на криптовалюту график должен наполняться данными той крипты, которая была выбрана.
+Когда пользователь заходит, он должен видеть динамику котировок и график.
+
+### Установка
 
 ```bash
 # install dependencies
@@ -17,4 +24,4 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, check out [Nuxt.js docs] (https://nuxtjs.org).
